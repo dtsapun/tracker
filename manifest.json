@@ -2,7 +2,7 @@
   "name": "Мій сайт",
   "short_name": "Сайт",
   "start_url": "./index.html",
-  "display": "browser",
+  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
@@ -19,4 +19,5 @@
   ]
 
 }
+
 
